@@ -4,7 +4,6 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 from ChampuMusic.utils.formatters import time_to_seconds
 
-close_markup
 def to_small_caps(text):
     # Helper function to convert text to small caps
     small_caps = {
