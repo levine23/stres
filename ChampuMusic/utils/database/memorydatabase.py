@@ -3,7 +3,6 @@ import os
 from typing import Dict, List, Union
 import config
 from ChampuMusic.core.mongo import mongodb
-add_sudo, remove_sudo
 channeldb = mongodb.cplaymode
 commanddb = mongodb.commands
 cleandb = mongodb.cleanmode
