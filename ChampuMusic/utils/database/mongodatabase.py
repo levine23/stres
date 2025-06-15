@@ -1,6 +1,5 @@
 from typing import Dict, List, Union
 from ChampuMusic.core.mongo import mongodb
-add_sudo, remove_sudo
 queriesdb = mongodb.queries
 userdb = mongodb.userstats
 chattopdb = mongodb.chatstats
